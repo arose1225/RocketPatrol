@@ -1,2 +1,2 @@
 # Rocket Patrol
-Rocket patrol tutorial for CMPM 120
+Rocket patrol tutorial for CMPM 120.
